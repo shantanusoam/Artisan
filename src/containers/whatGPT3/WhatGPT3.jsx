@@ -34,10 +34,10 @@ const WhatGPT3 = () => (
 
         "
       />
-      <Feature
+      {/* <Feature
         title="Education"
         text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
-      />
+      /> */}
     </div>
   </div>
 );

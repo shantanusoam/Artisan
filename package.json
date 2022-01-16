@@ -1,6 +1,6 @@
 {
-  "name": "artisian",
-  "homepage": "http://shantanusoam.github.io/Artisian",
+  "name": "artisan",
+  "homepage": "http://shantanusoam.github.io/Artisan",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

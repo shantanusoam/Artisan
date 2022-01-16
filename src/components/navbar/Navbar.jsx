@@ -17,10 +17,10 @@ const Navbar = () => {
             <a href="#home">Home</a>
           </p>
           <p>
-            <a href="#wgpt3">What is artisian dao?</a>
+            <a href="#wgpt3">What is Artisan dao?</a>
           </p>
           <p>
-            <a href="#possibility">artisian</a>
+            <a href="#possibility">Artisan</a>
           </p>
           <p>
             <a href="#features">Case Studies</a>
@@ -55,10 +55,10 @@ const Navbar = () => {
                 <a href="#home">Home</a>
               </p>
               <p>
-                <a href="#wgpt3">What is ARTISIAN dAO?</a>
+                <a href="#wgpt3">What is Artisan dAO?</a>
               </p>
               <p>
-                <a href="#possibility">ARTISIAN</a>
+                <a href="#possibility">Artisan</a>
               </p>
               <p>
                 <a href="#features">Case Studies</a>
