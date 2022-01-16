@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Artisan/static/css/main.e85c689c.chunk.css",
-    "main.js": "/Artisan/static/js/main.61ec9de9.chunk.js",
-    "main.js.map": "/Artisan/static/js/main.61ec9de9.chunk.js.map",
+    "main.js": "/Artisan/static/js/main.e4b22907.chunk.js",
+    "main.js.map": "/Artisan/static/js/main.e4b22907.chunk.js.map",
     "runtime-main.js": "/Artisan/static/js/runtime-main.bd5cc991.js",
     "runtime-main.js.map": "/Artisan/static/js/runtime-main.bd5cc991.js.map",
     "static/js/2.7fa8980b.chunk.js": "/Artisan/static/js/2.7fa8980b.chunk.js",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.bd5cc991.js",
     "static/js/2.7fa8980b.chunk.js",
     "static/css/main.e85c689c.chunk.css",
-    "static/js/main.61ec9de9.chunk.js"
+    "static/js/main.e4b22907.chunk.js"
   ]
 }
